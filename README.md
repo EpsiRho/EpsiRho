@@ -1,6 +1,7 @@
-## Hiya! I'm Epsi~
+## Hiya! I'm Epsi~ 
 <img align='right' src="https://github.com/EpsiRho/EpsiRho/blob/main/epsicircle.png" width="230">
-I'm the nocturnal computer wolf. 
+
+### I'm a nocturnal software developer wolf. 
 
 [![Epsi's github stats](https://github-readme-stats.vercel.app/api?username=EpsiRho&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
