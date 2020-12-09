@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hiya! I'm Epsi~
+<img align='right' src="https://github.com/EpsiRho/EpsiRho/blob/main/epsicircle.png" width="230">
+I'm the nocturnal computer wolf. 
 
-<!--
-**EpsiRho/EpsiRho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Epsi's github stats](https://github-readme-stats.vercel.app/api?username=EpsiRho&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EpsiRho&theme=radical&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social
+![Twitter Follow](https://img.shields.io/twitter/follow/EpsilonRho?label=Follow%20Me%20on%20Twitter&style=for-the-badge)<br>
+Email Me Anytime at [epsilon@epsirho.com](mailto:epsirho@gmail.com)
+
+## Recent Projects
+![Horizon Card](https://github-readme-stats.vercel.app/api/pin/?username=EpsiRho&repo=Horizon&theme=radical)
+
+## Donate
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R02T2FQ)
