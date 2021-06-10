@@ -12,7 +12,7 @@
 Email Me Anytime at [epsilon@epsirho.com](mailto:epsirho@gmail.com)
 
 ## Recent Projects
-![Horizon Card](https://github-readme-stats.vercel.app/api/pin/?username=EpsiRho&repo=Horizon&theme=radical)
+![BackChannel Card](https://github-readme-stats.vercel.app/api/pin/?username=BackChannel-Chat-Client&repo=BackChannel-Client&theme=radical)
 
 ## Donate
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R02T2FQ)
