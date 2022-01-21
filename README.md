@@ -18,6 +18,3 @@ Email Me Anytime at [epsilon@epsirho.com](mailto:epsirho@gmail.com)
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
-## Recent Projects
-![BackChannel Card](https://github-readme-stats.vercel.app/api/pin/?username=BackChannel-Chat-Client&repo=BackChannel-Client&theme=radical)
-![e610 Card](https://github-readme-stats.vercel.app/api/pin/?username=EpsiRho&repo=e610.NET&theme=radical)
