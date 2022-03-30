@@ -7,6 +7,8 @@ Currently being forced into the daytime by college
 
 [![Epsi's github stats](https://github-readme-stats.vercel.app/api?username=EpsiRho&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Epsi's github stats]("https://github-readme-stats.vercel.app/api/top-langs?username=EpsiRho&show_icons=true&theme=dark&locale=en&layout=compact")
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=EpsiRho&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Social
