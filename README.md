@@ -1,4 +1,5 @@
 ## Hiya! I'm Epsi~ 
+<img align='right' src="https://github.com/EpsiRho/EpsiRho/blob/main/epsicircle.png" width="230">
 <a rel="me" href="https://meow.social/@epsi"></a>
 
 ### I'm a nocturnal software developer.
