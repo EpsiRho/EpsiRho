@@ -2,20 +2,14 @@
 <img align='right' src="https://github.com/EpsiRho/EpsiRho/blob/main/epsicircle.png" width="230">
 <a rel="me" href="https://meow.social/@epsi"></a>
 
-### I'm a nocturnal software developer.
-Currently being forced into the daytime by college
-### https://www.epsirho.com/
+### Software developer, Lava lamp dog, totally a professional
+📅 22 years old 🌐 United States 🎓 Bachelor of Science in Information Technology
 
-[![Epsi's github stats](https://github-readme-stats.vercel.app/api?username=EpsiRho&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Skilled in designing and building software, and driven by the desire to create better software.
+Love working in C# and Microsoft’s UWP/WASDK and ASP.NET frameworks.
+Familiar with C/C++ and Python (but I hate python).
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EpsiRho&show_icons=true&theme=dark&locale=en&layout=compact" alt="Epsi" /></p>
+See my blog posts, projects pages, and music recommendations at https://www.epsirho.com/
 
-## Social
-![Twitter Follow](https://img.shields.io/twitter/follow/EpsilonRho?label=Follow%20Me%20on%20Twitter&style=for-the-badge)<br>
-Email Me Anytime at [epsilon@epsirho.com](mailto:epsirho@gmail.com)
+Email me anytime at [epsilon@epsirho.com](mailto:epsirho@gmail.com)
 
-## Currently Programming with
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</p>
