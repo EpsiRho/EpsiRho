@@ -3,7 +3,7 @@
 <a rel="me" href="https://meow.social/@epsi"></a>
 
 ### Software developer, Lava lamp dog, totally a professional
-📅 22 years old 🌐 United States 🎓 Bachelor of Science in Information Technology
+📅 23 years old 🌐 United States 🎓 Bachelor of Science in Information Technology
 
 Skilled in designing and building software, and driven by the desire to create better software.
 Love working in C# and Microsoft’s UWP/WASDK and ASP.NET frameworks.
