@@ -11,5 +11,5 @@ Familiar with C/C++ and Python (but I hate python).
 
 See my blog posts, projects pages, and music recommendations at https://www.epsirho.com/
 
-Email me anytime at [epsilon@epsirho.com](mailto:epsirho@gmail.com)
+Email me anytime at [epsi@epsirho.com](mailto:epsi@epsirho.com)
 
